@@ -1,3 +1,3 @@
 # study_notes
 
-Programming notes  
+course notes  
